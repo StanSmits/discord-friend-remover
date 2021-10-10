@@ -13,7 +13,8 @@ X1, Y1 = (1448 / 1920) * screensize[0], (152 / 1080) * screensize[1]
 X2, Y2 = (1512 / 1920) * screensize[0], (242 / 1080) * screensize[1]
 X3, Y3 = (1081 / 1920) * screensize[0], (578 / 1080) * screensize[1]
 
-
+time.sleep(5)
+print("Starting the script in 5 seconds")
 for i in range(amountOfFriends):
     pyautogui.click(X1, Y1)
     time.sleep(0.2)
