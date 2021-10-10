@@ -1,6 +1,8 @@
 # Discord Friend Remover
 ## A simple discord friend remover script by Apnix
 
+Make sure you are on the desktop app of discord then go to "Friends > All" and run the script
+
 ## Features
 
 - Ability to "quickly" remove all your friends from discord
@@ -15,3 +17,4 @@ To run the script, you may need to import some libraries, how to do this:
 3. Second command: `pip install time`
 4. Go to the folder where u downloaded the python file (Example: C:\Users\username\Downloads) = `cd Downloads`
 5. Type: `py main.py` (make sure u extracted the .py file in your downloads folder
+
