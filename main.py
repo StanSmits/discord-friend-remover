@@ -22,8 +22,8 @@ import time
 amountOfFriends = 0
 
 screensize = pyautogui.size()
-X1, Y1 = (1448 / 1920) * screensize[0], (152 / 1080) * screensize[1]
-X2, Y2 = (1512 / 1920) * screensize[0], (242 / 1080) * screensize[1]
+X1, Y1 = (1448 / 1920) * screensize[0], (202 / 1080) * screensize[1]
+X2, Y2 = (1512 / 1920) * screensize[0], (292 / 1080) * screensize[1]
 X3, Y3 = (1081 / 1920) * screensize[0], (578 / 1080) * screensize[1]
 
 
